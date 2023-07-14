@@ -17,5 +17,5 @@
 ## Решение 
 
 
-[Program](src/main/java/ru/egorova/api/Homework6/Program.java)
-[Cat](src/main/java/ru/egorova/api/Homework5/Cat.java)
+[Program](src/main/java/ru/egorova/Homework6/Program.java)
+[Cat](src/main/java/ru/egorova/Homework5/Cat.java)
